@@ -1,4 +1,18 @@
-style.css
-:root{
-    
+body {
+  background-color: dimgrey;
+    font-family: "SF Mono", "Space Mono", "Roboto Mono", "Oxygen Mono", monospace;
+    text-align: center;
+}
+
+h2 {
+    color: bisque 
+
+}
+
+p {
+    color: cadetblue
+}
+
+h3 {
+    color: cornsilk;
 }
